@@ -1,0 +1,216 @@
+.TopHeader {
+ 	BACKGROUND-COLOR: #669933;
+	COLOR: #CCFF99;
+	FONT-FAMILY: impact;
+	FONT-WEIGHT: normal; 
+	FONT-SIZE: 42px; 
+}
+.SubHeader {
+ 	BACKGROUND: #2F421C;
+	FONT-FAMILY: arial, verdana, sans-serif;
+	FONT-WEIGHT: bold; 
+	FONT-SIZE: 8pt; 
+	COLOR: #CCFF99;
+}
+.HdgWithBorder {
+	border: #669933 2px solid;
+	FONT-WEIGHT: bold; 
+	FONT-SIZE: 12pt; 
+	BACKGROUND-COLOR: #CCFF99;
+	COLOR: #669933; 
+	FONT-STYLE: normal; 
+	FONT-FAMILY: arial, verdana, sans-serif;
+}
+.SubHdgWithBorder {
+	border: #669933 1px solid;
+	FONT-WEIGHT: bold; 
+	FONT-SIZE: 12pt; 
+	BACKGROUND-COLOR: #CCFF99;
+	COLOR: #669933; 
+	FONT-STYLE: normal; 
+	FONT-FAMILY: arial, verdana, sans-serif;
+}
+.BgClrGray
+	BACKGROUND-COLOR: black;
+}
+.TabHdr {
+	FONT-WEIGHT: normal; 
+	FONT-SIZE: 8pt; 
+	BACKGROUND-COLOR: #CCFF99;
+	COLOR: #669933; 
+	FONT-STYLE: normal; 
+	FONT-FAMILY: verdana, sans-serif;
+}
+.MainBorder {
+	FONT-WEIGHT: bold; 
+	FONT-SIZE: 8pt; 
+	BACKGROUND: #669933; 
+	COLOR: #669933; 
+	FONT-STYLE: normal; 
+	FONT-FAMILY: arial, verdana, sans-serif
+}
+.RightText {
+	FONT-SIZE: 11px; 
+	COLOR: #669933; 
+	FONT-FAMILY: verdana, arial, sans-serif;
+}
+.RightTextJust {
+	FONT-SIZE: 11px; 
+	COLOR: #669933; 
+	FONT-FAMILY: verdana, arial, sans-serif;
+	TEXT-ALIGN: justify;
+}
+.Hint {
+	FONT-SIZE: 11px; 
+	COLOR: #c0c0c0; 
+	FONT-FAMILY: verdana, arial, sans-serif;
+}
+.RightTextBold {
+	FONT-SIZE: 11px; 
+	COLOR: #669933; 
+	FONT-FAMILY: verdana, arial, sans-serif;
+	FONT-WEIGHT: bold;
+}
+.LeftLabels {
+	FONT-SIZE: 11px; 
+	COLOR: #669933; 
+	FONT-FAMILY: verdana, arial, sans-serif;
+	FONT-WEIGHT: bold;
+	TEXT-ALIGN: right;
+}
+.Labels {
+	FONT-SIZE: 11px; 
+	COLOR: #669933; 
+	FONT-FAMILY: verdana, arial, sans-serif;
+	FONT-WEIGHT: bold;
+}
+.RedLabels {
+	FONT-SIZE: 11px; 
+	COLOR: red; 
+	FONT-FAMILY: verdana, arial, sans-serif;
+	FONT-WEIGHT: bold;
+}
+.ValLabels {
+	FONT-SIZE: 11px; 
+	COLOR: #0066CC; 
+	FONT-FAMILY: verdana, arial, sans-serif;
+	FONT-WEIGHT: bold;
+}
+.RightVals {
+	FONT-SIZE: 8pt; 
+	COLOR: black; 
+	FONT-FAMILY: "courier new", verdana, arial, sans-serif;
+	FONT-WEIGHT: normal;
+	TEXT-ALIGN: left;
+}
+.Mandat {
+	FONT-SIZE: 11px; 
+	COLOR: red; 
+	FONT-FAMILY: verdana, arial, sans-serif;
+	FONT-WEIGHT: bold;
+}
+.RightInputArea {
+	font-size: 11px; 
+	color: #669933; 
+	font-style: normal; 
+	font-family: verdana, arial, sans-serif; 
+	background-color:#FFFFFF;
+	border: solid rgb(179,204,153) 1px;
+	scrollbar-highlight-color: #CDBA96;
+	scrollbar-shadow-color: #8B7355;
+	scrollbar-arrow-color: #FFFFFF;
+	scrollbar-track-color: #FFF8DC;
+	scrollbar-darkshadow-color: #8B7355;
+	scrollbar-base-color: #8B7E66;
+	scrollbar-3d-light-color: #000000;
+	scrollbar-height: 30px
+}
+.RightInputDisbldArea {
+	font-size: 11px; 
+	color: #909090; 
+	font-style: italic; 
+	font-family: verdana, arial, sans-serif; 
+	background-color:#ECECEC;
+	border: solid rgb(179,204,153) 1px;
+	scrollbar-highlight-color: #CDBA96;
+	scrollbar-shadow-color: #8B7355;
+	scrollbar-arrow-color: #FFFFFF;
+	scrollbar-track-color: #FFF8DC;
+	scrollbar-darkshadow-color: #8B7355;
+	scrollbar-base-color: #8B7E66;
+	scrollbar-3d-light-color: #000000;
+	scrollbar-height: 30px
+}
+
+.RightInputAreaRO {
+	font-size: 11px; 
+	color: #0066CC; 
+	font-weight: bold; 
+	font-family: verdana, arial, sans-serif; 
+	background-color:#FFFFFF;
+	border: solid rgb(179,204,153) 0px;
+	scrollbar-highlight-color: #CDBA96;
+	scrollbar-shadow-color: #8B7355;
+	scrollbar-arrow-color: #FFFFFF;
+	scrollbar-track-color: #FFF8DC;
+	scrollbar-darkshadow-color: #8B7355;
+	scrollbar-base-color: #8B7E66;
+	scrollbar-3d-light-color: #000000;
+	scrollbar-height: 30px
+}
+
+.ShadedBox {
+	FONT-WEIGHT: bold; 
+	FONT-SIZE: 15px; 
+	COLOR: #669933; 
+	FONT-FAMILY: arial, sans-serif; 
+	BACKGROUND-COLOR: #E6FFCC
+}
+.GButton {
+	BORDER-RIGHT: #006600 1px solid; 
+	BORDER-TOP: #99FF33 1px solid; 
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; 
+	BORDER-LEFT: #99FF33 1px solid; 
+	CURSOR: hand; 
+	COLOR: #000000;
+	BORDER-BOTTOM: #006600 1px solid; 
+	FONT-STYLE: normal; 
+	FONT-FAMILY: verdana, arial, sans-serif; 
+	BACKGROUND-COLOR: #66CC00
+}
+.HdrLinks {
+	FONT-WEIGHT: bold; 
+	FONT-SIZE: 8pt; 
+	COLOR: #FFE7BA; 
+	FONT-FAMILY: Arial, Helvetica, 
+	sans-serif; 
+	TEXT-DECORATION: none;
+	vertical-align: middle
+}
+A:hover {
+	TEXT-DECORATION: underline
+}
+A.TableLink:link {
+	FONT-SIZE: 11px; 
+	COLOR: #669933; 
+	FONT-FAMILY: verdana, arial, sans-serif;
+	TEXT-DECORATION: none
+}
+A.TableLink:visited {
+	FONT-SIZE: 11px; 
+	COLOR: #669933; 
+	FONT-FAMILY: verdana, arial, sans-serif;
+	TEXT-DECORATION: none
+}
+A.TableLink:hover {
+	FONT-SIZE: 11px; 
+	COLOR: #669933; 
+	FONT-FAMILY: verdana, arial, sans-serif;
+	TEXT-DECORATION: underline
+}
+.TabBorder {
+	BACKGROUND-COLOR: #ECECEC;
+}
+.TabColor {
+	BACKGROUND-COLOR: white;
+}
